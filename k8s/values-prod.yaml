@@ -1,3 +1,2 @@
-egor-test:
-  image:
-    repository: nginx-egor
+image:
+  repository: nginx-egor
